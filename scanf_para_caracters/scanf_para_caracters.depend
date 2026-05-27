@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1779829984 source:c:\users\esdras\documents\curso_em_c\scanf_para_caracters\main.c
+	<stdio.h>
+	<stdlib.h>
+
