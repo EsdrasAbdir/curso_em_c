@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780003614 source:c:\users\esdras\documents\curso_em_c\limpar_buffer_getchar\main.c
+	<stdio.h>
+	<stdlib.h>
+
