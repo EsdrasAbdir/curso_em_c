@@ -9,4 +9,4 @@ int main() {
 }
 ```
 
-![imagem em c ansi]("assets/imagem.png")
+![imagem em c ansi](assets/imagem.png)
