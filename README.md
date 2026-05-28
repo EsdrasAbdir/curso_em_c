@@ -9,4 +9,4 @@ int main() {
 }
 ```
 
-![imagem em c ansi](""C:\Users\Esdras\Documents\curso_em_c\assets\Gemini_Generated_Image_cocr8hcocr8hcocr.png"")
+![imagem em c ansi]("assets/imagem.png")
