@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780015316 source:c:\users\esdras\documents\curso_em_c\tipo_double_para_precisao_dupla\main.c
+	<stdio.h>
+	<stdlib.h>
+
