@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780521034 source:c:\users\esdras\documents\curso_em_c\acentuacao_e_tabela_ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+

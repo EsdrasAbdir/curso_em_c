@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780523068 source:c:\users\esdras\documents\curso_em_c\exercicio_trocar_valores_de_duas_variaveis_sem_usar_uma_variavel_auxiliar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

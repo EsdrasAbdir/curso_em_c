@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780520081 source:c:\users\esdras\documents\curso_em_c\operador_de_incremento\main.c
+	<stdio.h>
+	<stdlib.h>
+

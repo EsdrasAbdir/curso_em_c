@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780535420 source:c:\users\esdras\documents\curso_em_c\exercicio_restaurante_e_divisao_da_conta_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
