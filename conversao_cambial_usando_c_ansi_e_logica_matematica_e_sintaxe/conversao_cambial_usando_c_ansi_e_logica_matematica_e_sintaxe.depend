@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780537145 source:c:\users\esdras\documents\curso_em_c\conversao_cambial_usando_c_ansi_e_logica_matematica_e_sintaxe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

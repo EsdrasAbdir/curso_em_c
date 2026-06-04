@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780537851 source:c:\users\esdras\documents\curso_em_c\convertendo_segundos_para_horas_minutos_e_segundo_em_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
