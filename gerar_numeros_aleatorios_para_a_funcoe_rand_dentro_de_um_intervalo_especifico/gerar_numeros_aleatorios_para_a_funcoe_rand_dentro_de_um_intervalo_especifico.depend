@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780862617 source:c:\users\esdras\documents\curso_em_c\gerar_numeros_aleatorios_para_a_funcoe_rand_dentro_de_um_intervalo_especifico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

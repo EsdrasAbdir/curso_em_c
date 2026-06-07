@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780863126 source:c:\users\esdras\documents\curso_em_c\exercicio_ faça_um_programa_que_preencha_um_vetor_de_inteiros_de_tamanho_10_pedindo_valores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

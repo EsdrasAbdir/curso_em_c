@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780862243 source:c:\users\esdras\documents\curso_em_c\gerar_numeros_aleatorios_para_preencher_um_vetor_com_as_funcoes_rand_e_srand\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

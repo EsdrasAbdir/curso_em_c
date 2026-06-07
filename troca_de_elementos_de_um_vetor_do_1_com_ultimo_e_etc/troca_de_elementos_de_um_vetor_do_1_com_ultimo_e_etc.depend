@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780866338 source:c:\users\esdras\documents\curso_em_c\troca_de_elementos_de_um_vetor_do_1_com_ultimo_e_etc\main.c
+	<stdio.h>
+	<stdlib.h>
+
