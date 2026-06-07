@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780612751 source:c:\users\esdras\documents\curso_em_c\exercicio_ver_se_um_numero_e_divisivel_por_2_3_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

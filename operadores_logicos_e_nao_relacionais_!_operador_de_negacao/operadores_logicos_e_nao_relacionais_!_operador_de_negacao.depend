@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780609142 source:c:\users\esdras\documents\curso_em_c\operadores_logicos_e_nao_relacionais_!_operador_de_negacao\main.c
+	<stdio.h>
+	<stdlib.h>
+

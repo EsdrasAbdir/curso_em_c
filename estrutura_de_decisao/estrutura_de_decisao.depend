@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780603485 source:c:\users\esdras\documents\curso_em_c\estrutura_de_decisao\main.c
+	<stdio.h>
+	<stdlib.h>
+

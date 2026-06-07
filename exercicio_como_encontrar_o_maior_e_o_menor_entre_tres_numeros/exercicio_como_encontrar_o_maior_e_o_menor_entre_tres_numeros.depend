@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780611331 source:c:\users\esdras\documents\curso_em_c\exercicio_como_encontrar_o_maior_e_o_menor_entre_tres_numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

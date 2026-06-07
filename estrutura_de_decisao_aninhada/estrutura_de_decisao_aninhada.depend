@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780604822 source:c:\users\esdras\documents\curso_em_c\estrutura_de_decisao_aninhada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
