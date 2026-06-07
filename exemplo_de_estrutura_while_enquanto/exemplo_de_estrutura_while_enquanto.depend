@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780858359 source:c:\users\esdras\documents\curso_em_c\exemplo_de_estrutura_while_enquanto\main.c
+	<stdio.h>
+	<stdlib.h>
+
