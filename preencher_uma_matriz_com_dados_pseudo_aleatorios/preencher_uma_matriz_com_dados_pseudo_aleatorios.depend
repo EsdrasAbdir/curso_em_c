@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780868982 source:c:\users\esdras\documents\curso_em_c\preencher_uma_matriz_com_dados_pseudo_aleatorios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

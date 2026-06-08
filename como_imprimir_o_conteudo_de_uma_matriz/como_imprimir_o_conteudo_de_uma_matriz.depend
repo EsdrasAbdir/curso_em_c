@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780868269 source:c:\users\esdras\documents\curso_em_c\como_imprimir_o_conteudo_de_uma_matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+
