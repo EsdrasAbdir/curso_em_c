@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780953959 source:c:\users\esdras\documents\curso_em_c\como_ler_uma_string_com_a_funcao_gets()\main.c
+	<stdio.h>
+	<stdlib.h>
+

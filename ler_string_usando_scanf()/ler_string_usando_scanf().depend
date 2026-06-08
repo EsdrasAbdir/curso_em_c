@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1780953687 source:c:\users\esdras\documents\curso_em_c\ler_string_usando_scanf()\main.c
+	<stdio.h>
+	<stdlib.h>
+
