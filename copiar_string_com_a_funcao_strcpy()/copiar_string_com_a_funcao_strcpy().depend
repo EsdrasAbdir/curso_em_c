@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1780973026 source:c:\users\esdras\documents\curso_em_c\copiar_string_com_a_funcao_strcpy()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

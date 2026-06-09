@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1780975345 source:c:\users\esdras\documents\curso_em_c\procurando_caracteres_de_uma_string_com_strchr_e_strrchr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
