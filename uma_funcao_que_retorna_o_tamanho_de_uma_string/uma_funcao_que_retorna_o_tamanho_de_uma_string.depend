@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781037537 source:c:\users\esdras\documents\curso_em_c\uma_funcao_que_retorna_o_tamanho_de_uma_string\main.c
+	<stdio.h>
+	<stdlib.h>
+

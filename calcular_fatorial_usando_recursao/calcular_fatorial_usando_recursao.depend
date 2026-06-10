@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781051608 source:c:\users\esdras\documents\curso_em_c\calcular_fatorial_usando_recursao\main.c
+	<stdio.h>
+	<stdlib.h>
+

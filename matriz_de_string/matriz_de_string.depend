@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781036033 source:c:\users\esdras\documents\curso_em_c\matriz_de_string\main.c
+	<stdio.h>
+	<stdlib.h>
+

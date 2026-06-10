@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1781052681 source:c:\users\esdras\documents\curso_em_c\calcular_sequencia_de_fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
